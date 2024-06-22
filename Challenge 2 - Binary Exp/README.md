@@ -10,12 +10,12 @@
 </div>
 <br>
 <div align="center">
-  <img src="images/Binary_img2.jpg">
+  <img src="images/binary_img2.jpg">
   <p style="text-align:center;">Assembly language code of the function win().</p>
 </div>
 <br>
 <div align="center">
-  <img src="image/binary_img3.jpg">
+  <img src="images/binary_img3.jpg">
   <p style="text-align:center;">C language code of the function win().</p>
 </div>
 <br>
@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="image/binary_img4.jpg">
+  <img src="images/binary_img4.jpg">
   <p style="text-align:center;">Flag revealed.</p>
 </div>
 <div>
