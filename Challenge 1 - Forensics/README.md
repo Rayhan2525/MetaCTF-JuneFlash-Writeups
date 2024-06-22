@@ -1,7 +1,7 @@
 <h1>Challenge 1 - Forensics</h1>
-<div>
-  <img>
-  <p></p>
+<div align="center">
+  <img src="images/Forensics_img1.jpg">
+  <p style="text-align:center;">Challenge description.</p>
 </div>
 <br>
 <div>
@@ -12,9 +12,9 @@
     to reveal metadata of files.</p>
 </div>
 <br>
-<div>
-  <img>
-  <p></p>
+<div align="center">
+  <img src="images/Forensics_img2.jpg">
+  <p style="text-align:center;">Flag revealed.</p>
 </div>
 <br>
 <p>Flag: MetaCTF{Wren_Gaillard}</p>
